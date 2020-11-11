@@ -1,0 +1,14 @@
+table{
+    width: 50%;;
+}
+th{
+    font-size: 20px;
+    color: rgb(126, 252, 0);
+    border-top: solid 1px dodgerblue;
+}
+td{
+    width: 20%;
+    border: 1px solid royalblue;
+    text-align: center;
+    color: rgb(49, 12, 153);
+}
